@@ -1,0 +1,5 @@
+Pandas
+Scikit-Learn==0.18
+Numpy
+Scipy
+matplotlib==1.4.3
